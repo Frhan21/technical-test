@@ -1,0 +1,12 @@
+# Standard python envs
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+__pycache__/
+
+
+# Agar file nya tidak terupload ke github
+captures/
